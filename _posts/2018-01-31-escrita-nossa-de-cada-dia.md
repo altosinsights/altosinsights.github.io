@@ -5,6 +5,7 @@ description: "Gosto de reservar um tempo para eu poder me **libertar**. Deixo as
 date:   2018-01-31 20:00:00 -0300
 tags:
   - inspiracao
+seo: libertar, emoções, expressar, confiar, imaginação, escrita, alma, singularidades, essência, comunicar, transmitir
 author: Brenda Andrade
 thumb: "http://www.altosinsights.com/assets/uploads/2018-02-12-escrita-nossa-de-cada-dia.jpg"
 ---
