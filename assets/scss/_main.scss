@@ -217,6 +217,7 @@ iframe#dsq-app1{
     background: $secundaria;
     cursor: pointer;
     transition: all .25s linear;
+    -webkit-appearance: none;
     &:hover{
       opacity: 0.8;
     }
