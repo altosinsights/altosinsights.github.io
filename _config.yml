@@ -17,7 +17,7 @@ links:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 permalink: /:title
 gems:
   - jekyll-feed
