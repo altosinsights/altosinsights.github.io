@@ -4,7 +4,7 @@ title:  "Escrita nossa de cada dia"
 description: "Gosto de reservar um tempo para eu poder me **libertar**. Deixo as palavras saírem. Costumo pegar um caderno, um notebook, celular, enfim, qualquer arma que eu tenha mais próxima de mim e me preparo para usá-la."
 date:   2018-01-31 20:00:00 -0300
 tags:
-  - inspiração
+  - inspiracao
 author: Brenda Andrade
 thumb: "http://www.altosinsights.com/assets/uploads/2018-02-12-escrita-nossa-de-cada-dia.jpg"
 ---
