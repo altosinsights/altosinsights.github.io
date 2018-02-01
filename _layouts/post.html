@@ -7,7 +7,7 @@ layout: default
 
       <h1>{{ page.title | escape }}</h1>
       <span class="details">
-        <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">{{ page.date | date_to_string }}</time> - {% for tag in page.tags %}<a href="/{{ site.tag_page_dir }}/{{ tag }}">{{ tag }}</a>{% endfor %} - por {% if page.author %} <a href="/about-me" class="author">{{ page.author }}</a> {% endif %}
+        <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">{{ page.date | date_to_string }}</time> - {% for tag in page.tags %}<a href="/{{ site.tag_page_dir }}/{{ tag }}">{{ tag }}</a>{% endfor %} - por {% if page.author %} <a href="/sobre-mim" class="author">{{ page.author }}</a> {% endif %}
       </span>
 
     {{ content }}
