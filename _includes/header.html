@@ -1,0 +1,31 @@
+<header class="topo">
+  <nav class="menu-mobile">
+    <span></span>
+    <ul class="menu-itens">
+      <li class="about"><img src="{{ "/assets/img/brendaandrade.png" | relative_url }}" alt="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." title="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." class="img-responsive"></li>
+      <li class="about-text">
+        <p>Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas.</p>
+      </li>
+      {% for link in site.links %}
+        <a href="{{ site.url }}{{ link.url }}"><li>{{ link.title }}</li></a>
+      {% endfor %}
+    </ul>
+  </nav>
+  <a href="/" class="logo">
+    <img src="{{ "/assets/img/logo-altosinsights.png" | relative_url }}" alt="Blog Altos Insights escrito por Brenda Andrade" class="img-responsive">
+  </a>
+</header>
+
+<nav class="menu">
+  <ul>
+    {% for link in site.links %}
+      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+    <li>
+      <a class="social-media" target="_blank" onclick="gtag('send', 'event', 'link','click', 'Click no instagram');" href="https://www.instagram.com/brenda.andrad/" itemprop="url"><i class="fa fa-instagram fa-lg"></i></a>
+      <a class="social-media" target="_blank" onclick="gtag('send', 'event', 'link','click', 'Click no twitter');" href="https://twitter.com/brendaandrad/" itemprop="url"><i class="fa fa-twitter fa-lg"></i></a>
+      <a class="social-media" target="_blank" onclick="gtag('send', 'event', 'link','click', 'Click no facebook');" href="https://www.facebook.com/altosinsights/" itemprop="url"><i class="fa fa-facebook fa-lg"></i></a>
+      <a class="social-media" target="_blank" onclick="gtag('send', 'event', 'link','click', 'Click no spotify');" href="https://open.spotify.com/user/brenda.andrad/" itemprop="url"><i class="fa fa-spotify fa-lg"></i></a>
+    </li>
+  </ul>
+</nav>

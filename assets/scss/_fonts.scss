@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Shadows+Into+Light+Two');
+@font-face {
+  font-family: 'altosinsights';
+  font-style: normal;
+  src: url('https://altosinsights.github.io/assets/font/altosinsights.eot');
+  src: local('https://altosinsights.github.io/assets/font/altosinsights'), url('https://altosinsights.github.io/assets/font/altosinsights.eot') format('embedded-opentype');
+}
+@font-face {
+     font-family: 'Zooja';
+     src: local('https://altosinsights.github.io/assets/font/Zooja.ttf');
+}
+
+$logo : 'Zooja', sans-serif;
+$textos : 'Open Sans', sans-serif;
+$titulos : 'altosinsights', sans-serif;
+$especial : 'Shadows Into Light Two', cursive;

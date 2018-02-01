@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+
+  {{ content }}
+
+  <section class="post-list">
+    {% if site.posts.size == 0 %}
+      <div class="post">
+      <h2>Nada encontrado</h2>
+      <p>
+        Não se preocupe, juro que irei escrever algo sobre isso ainda, beleza?<br>
+        Faz o seguinte, me mande um e-mail, assim eu posso escrever o mais rápido possível :)<br>
+        Meu e-mail é <a href="mailto:altosinsights@gmail.com">altosinsights@gmail.com</a>
+      </p>
+    </div>
+    {% else %}
+
+    {% for post in site.posts %}
+    <article class="post">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="details">{{ post.date | date: date_format }} - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
+      <img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb">
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      <a href="{{ post.url | relative_url }}" class="more">continuar lendo →</a>
+    </article>
+    {% endfor %}
+    {% endif %}
+  </section>

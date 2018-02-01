@@ -1,0 +1,170 @@
+//vars
+@import "colors";
+@import "fonts";
+
+//elements
+@import "header";
+@import "main";
+@import "footer";
+
+//reset
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: $branco;
+}
+
+h1, h2, h3{
+  font-family: $titulos;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: $primaria;
+}
+
+h1, h2{
+  font-size: 18px;
+}
+
+p{
+  font-family: $textos;
+  color: $primaria;
+  font-size: 14px;
+  line-height: 1.625;
+}
+
+a{
+  color: $primaria;
+  transition: all .25s linear;
+  text-decoration: none;
+}
+
+a:hover{
+  color: $secundaria;
+}
+
+span.details{
+  font-family: $textos;
+  font-style: normal;
+  color: $primaria;
+  margin: 0 0 20px;
+  display: block;
+  font-size: 12px;
+}
+
+strong, b{
+  font-weight: 700;
+}
+
+//class
+.img-responsive{
+  width: 100%;
+}
+
+.author{
+  font-family: $especial;
+  color: $primaria;
+  font-weight: bold;
+}
+
+.content{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.fix{
+  position: fixed;
+  z-index: 999;
+  box-shadow: #000 0 -20px 35px;
+  transition: all .25s linear;
+}
+
+
+@media screen and (max-width: 1280px){
+  .content{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+
+@media screen and (max-width: 1220px){
+  .sharee{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1020px){
+  .sidebar{
+    display: none;
+  }
+  .post-list{
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .post-list h2, .post-list cite, .post-list span.details, .post-open h1, .post-open cite, .post-open span.details, .post h1, .post h2{
+    text-align: center;
+  }
+  .post{
+    margin-right: 0;
+    margin: 0 10px 50px;
+  }
+}
+
+@media screen and (max-width: 840px){
+  .categorias{
+    display: block;
+  }
+  header.topo{
+    padding: 20px 0;
+  }
+  nav.menu, .filter-drop-spacer, ::-webkit-scrollbar{
+    display: none;
+  }
+  nav.menu-mobile{
+    display: block;
+  }
+  .main{
+    margin: 0 auto;
+  }
+  .rodape p{
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .top-comments{
+    height: 100%;
+    display: grid;
+    text-align: center;
+  }
+  .top-comments h2, .top-comments .share-this, #shareme .count{
+    float: none;
+  }
+  .top-comments .share-this{
+    order: 1;
+  }
+  .top-comments h2{
+    order: 2;
+    margin: 50px 0 0;
+  }
+  #shareme .box{
+    text-align: center;
+    display: grid
+  }
+  #shareme .count{
+    border-right: 0;
+    line-height: initial;
+    padding-right: 0;
+  }
+  #shareme .share{
+    margin-left: 0;
+  }
+  #shareme .buttons{
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 176px;
+  }
+}
