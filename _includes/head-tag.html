@@ -47,7 +47,7 @@
   <meta property="article:author" content="Brenda Andrade">
   <meta property="article:section" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="article:tag" content="{{ page.tags }}, {{post.seo}}">
-  <meta property="article:published_time" content="date_time">
+  <meta property="article:published_time" content="{{ post.date | date: date_format }}">
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | truncatewords: 50 }}{% else %}{{ site.description | escape }}{% endif %}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
