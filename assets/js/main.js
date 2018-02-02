@@ -35,25 +35,5 @@ jQuery(document).ready(function($) {
     $(this).toggleClass('act');
       $(".menu-itens").toggleClass('menu-itens-active');
       $(".menu-mobile").toggleClass('menu-mobile-active');
-  })
-
-    $('#shareme').sharrre({
-    share: {
-      googlePlus: true,
-      facebook: true,
-      twitter: true,
-    },
-    enableTracking: true,
-    buttons: {
-      googlePlus: {size: 'tall', annotation:'bubble'},
-      facebook: {layout: 'box_count'},
-      twitter: {count: 'vertical'},
-    },
-    hover: function(api, options){
-      $(api.element).find('.buttons').show();
-    },
-    hide: function(api, options){
-      $(api.element).find('.buttons').hide();
-    }
   });
 });
