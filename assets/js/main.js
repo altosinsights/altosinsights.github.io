@@ -36,4 +36,14 @@ jQuery(document).ready(function($) {
       $(".menu-itens").toggleClass('menu-itens-active');
       $(".menu-mobile").toggleClass('menu-mobile-active');
   });
+
+  $("#share-fb").on('click', function(){
+    ga('send', 'event', 'Share', 'click', 'Compartilhou no Facebook');
+  });
+  $("#share-tw").on('click', function(){
+    ga('send', 'event', 'Share', 'click', 'Compartilhou no Twitter');
+  });
+  $("#share-gp").on('click', function(){
+    ga('send', 'event', 'Share', 'click', 'Compartilhou no Google Plus');
+  });
 });
