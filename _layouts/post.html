@@ -14,17 +14,24 @@ layout: default
 
     {{ content }}
 
+    <div class="sharee">
+      <p>Share</p>
+      <a id="share-fb" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Compartilhe no Facebook" target="_blank"><i class="fa fa-facebook fa-1x" aria-hidden="true"></i></a>
+      <a id="share-tw" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://twitter.com/intent/tweet?text={{page.title}}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}%20via%20@brendaandrad&hashtags={{ page.tags }}" title="Compartilhe no Twitter" target="_blank"><i class="fa fa-twitter fa-1x" aria-hidden="true"></i></a>
+      <a id="share-gp" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Compartilhe no Google Plus" target="_blank"><i class="fa fa-google-plus fa-1x" aria-hidden="true"></i></a>
+    </div>
+  </article>
+
+  <div class="post send-optin">
     <div class="optin">
-      <p>Preenche seu e-mail aqui abaixo para receber em primeira mão os novos insights do blog.</p>
       <div id="mc_embed_signup">
-        <form action="//altosinsights.us15.list-manage.com/subscribe/post?u=337dcf85c4595df5ca307ad43&amp;id=184fb80abe" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <form action="//altosinsights.us15.list-manage.com/subscribe/post?u=337dcf85c4595df5ca307ad43&amp;id=184fb80abe" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate>
+          <p>Insira seu melhor e-mail pra sempre que sair novos posts você receber em primeira mão!</p>
           <div id="mc_embed_signup_scroll">
             <div class="mc-field-group">
-            	<input type="text" value="" placeholder="Seu nome" name="FNAME" class="" id="mce-FNAME">
-            </div>
-            <div class="mc-field-group">
-              </label>
-            	<input type="email" value="" placeholder="Seu melhor e-mail" name="EMAIL" class="required email" id="mce-EMAIL">
+            	<input type="text" value="" placeholder="Seu nome" name="FNAME" class="" id="mce-FNAME" required>
+              <input type="email" value="" placeholder="Seu melhor e-mail" name="EMAIL" class="required email" id="mce-EMAIL" required>
+              <input type="submit" value="Ok!" onclick="ga('send', 'event', 'Signup Form', 'submit', 'Cadastro no optin');" name="subscribe" id="mc-embedded-subscribe" class="button">
             </div>
           	<div id="mce-responses" class="clear">
           		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -33,21 +40,11 @@ layout: default
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
               <input type="text" name="b_337dcf85c4595df5ca307ad43_184fb80abe" tabindex="-1" value="">
             </div>
-            <div class="clear">
-              <input type="submit" value="Quero me cadastrar!" onclick="ga('send', 'event', 'Signup Form', 'submit', 'Cadastro no optin');" name="subscribe" id="mc-embedded-subscribe" class="button">
-            </div>
           </div>
         </form>
       </div>
     </div>
-
-    <div class="sharee">
-      <p>Share</p>
-      <a id="share-fb" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Compartilhe no Facebook" target="_blank"><i class="fa fa-facebook fa-1x" aria-hidden="true"></i></a>
-      <a id="share-tw" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://twitter.com/intent/tweet?text={{page.title}}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}%20via%20@brendaandrad&hashtags={{ page.tags }}" title="Compartilhe no Twitter" target="_blank"><i class="fa fa-twitter fa-1x" aria-hidden="true"></i></a>
-      <a id="share-gp" onclick="window.open(this.href, 'mywin','left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Compartilhe no Google Plus" target="_blank"><i class="fa fa-google-plus fa-1x" aria-hidden="true"></i></a>
-    </div>
-  </article>
+  </div>
 
   <div class="post comentarios">
     <div class="top-comments">

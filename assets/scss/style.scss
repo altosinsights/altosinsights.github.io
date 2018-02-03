@@ -168,3 +168,22 @@ strong, b{
     width: 176px;
   }
 }
+
+@media screen and (max-width: 450px){
+  .mc-field-group{
+    display: block;
+    overflow: hidden;
+  }
+  .optin input:first-child {
+    margin-left: 10px;
+  }
+  #mc_embed_signup:after{
+    top: 265px;
+  }
+}
+
+@media screen and (max-width: 380px){
+  #mc_embed_signup:after{
+    top: 285px;
+  }
+}
