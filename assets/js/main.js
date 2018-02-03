@@ -1,4 +1,6 @@
 jQuery(document).ready(function($) {
+
+  //instagram feed
   var feed = new Instafeed({
     get: 'user',
     userId: '364180803',
@@ -9,6 +11,8 @@ jQuery(document).ready(function($) {
   });
   feed.run();
 
+
+  //top menu fixed
   var $topo = $('.main');
   var $menu = $('.menu');
   var $filterSpacer = $('<div />', {
@@ -31,12 +35,15 @@ jQuery(document).ready(function($) {
 
   });
 
+
+  //btn mobile
   $(".menu-mobile").on('click', function () {
     $(this).toggleClass('act');
       $(".menu-itens").toggleClass('menu-itens-active');
       $(".menu-mobile").toggleClass('menu-mobile-active');
   });
 
+  //tracking share
   $("#share-fb").on('click', function(){
     ga('send', 'event', 'Share', 'click', 'Compartilhou no Facebook');
   });

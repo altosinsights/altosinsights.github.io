@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fale comigo
+description: Você pode entrar em contato comigo me mandando um email falando sobre você e sobre o que achou depois de fazer essa visitinha no Altos Insights.
 permalink: /fale-comigo/
 order: 3
 ---

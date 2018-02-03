@@ -3,12 +3,14 @@ layout: default
 ---
 
 <div class="post-list">
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <article class="post" id="{{ page.post_id }}" itemscope itemtype="http://schema.org/BlogPosting">
 
       <h1>{{ page.title | escape }}</h1>
       <span class="details">
         <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">{{ page.date | date_to_string }}</time> - {% for tag in page.tags %}<a href="/{{ site.tag_page_dir }}/{{ tag }}">{{ tag }}</a>{% endfor %} - por {% if page.author %} <a href="/sobre-mim" class="author">{{ page.author }}</a> {% endif %}
       </span>
+
+      <!--<button class="" onclick="likePost('{{ page.post_id }}')">Like</button>&nbsp;<span class="like-count"></span>-->
 
     {{ content }}
 
