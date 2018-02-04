@@ -220,6 +220,7 @@ iframe#dsq-app1{
     border: 0;
     border-bottom: 2px solid $secundaria;
     outline: none;
+    border-radius: 0 !important;
     &:first-child{
       margin-left: 0;
     }
