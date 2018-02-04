@@ -139,7 +139,7 @@ strong, b{
   }
   .top-comments{
     height: 100%;
-    display: grid;
+    display: inline-grid;
     text-align: center;
   }
   .top-comments h2, .top-comments .share-this, #shareme .count{
