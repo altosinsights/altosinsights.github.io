@@ -54,7 +54,7 @@
 }
 
 .img-insta{
-  max-width: 136px;
+  max-width: 88px;
   width: 100%;
   margin: 2px 3.5px;
   transition: all .25s linear;
@@ -225,21 +225,46 @@ iframe#dsq-app1{
       margin-left: 0;
     }
   }
-  input[type="submit"]{
-    font-family: $especial;
-    letter-spacing: 2px;
-    font-weight: bolder;
-    font-size: 30px;
-    color: $secundaria;
-    background: transparent;
-    cursor: pointer;
-    transition: all .25s linear;
-    -webkit-appearance: none;
-    border: 0 !important;
-    width: 40px;
-    &:hover{
-      opacity: 0.8;
-    }
+}
+
+.enviar{
+  font-family: $especial;
+  letter-spacing: 2px;
+  font-weight: bolder;
+  font-size: 30px;
+  color: $secundaria;
+  background: transparent;
+  cursor: pointer;
+  transition: all .25s linear;
+  -webkit-appearance: none;
+  border: 0 !important;
+  width: 40px;
+  &:hover{
+    opacity: 0.8;
+  }
+}
+
+.formulario{
+  background: #fff;
+  padding: 20px;
+  border-style: dashed;
+  border-color: #7f96a5;
+  overflow: hidden;
+  input[type="text"], input[type="email"], textarea{
+    width: 100%;
+    height: 35px;
+    margin: 10px 0;
+    border: 0;
+    border-bottom: 2px solid $secundaria;
+    outline: none;
+    border-radius: 0;
+    font-family: "Open Sans",sans-serif;
+    color: #3e4041;
+    font-size: 14px;
+    line-height: 1.625;
+  }
+  .enviar{
+    text-align: left;
   }
 }
 

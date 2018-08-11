@@ -14,7 +14,7 @@ tags: compartilhar, escrever, pintar, criar histórias, NAAHS, arte, exposiçõe
 
 Próximo a janela do meu quarto, no alto de uma escrivaninha, parei por um minuto para analisar alguns momentos da vida e pude perceber o quanto a escrita fez e faz parte de mim. Talvez isso soe estranho, mas quando os pensamentos vêm até nós, é o nosso dever decifrá-los.
 
-O **Altos Insights** surgiu para que eu possa **compartilhar** esses momentos de reflexões, conhecimentos, um pouco de romance e até mesmo viagens e experiências que venho adquirindo ao longo da minha trajetória. Sou **Brenda Andrade**, tenho 19 anos, sou estudante de administração e apaixonada pela escrita, amo animais e busco sempre a beleza nas pequenas coisas.
+O **Altos Insights** surgiu para que eu possa **compartilhar** esses momentos de reflexões, conhecimentos, um pouco de romance e até mesmo viagens e experiências que venho adquirindo ao longo da minha trajetória. Sou **Brenda Andrade**, estudante de administração e apaixonada pela escrita, amo animais e busco sempre a beleza nas pequenas coisas.
 
 Vamos voltar um pouquinho pra minha infância pra você me conhecer melhor.
 

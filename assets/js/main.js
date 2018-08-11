@@ -1,16 +1,16 @@
 jQuery(document).ready(function($) {
 
   //instagram feed
-  var feed = new Instafeed({
-    get: 'user',
-    userId: '364180803',
-    accessToken: '364180803.ca3e263.4ed78f3f4bbf4772946cfbc780872817',
-    template: '<a href="{{link}}" target="_blank"><img src="{{image}}" class="img-insta"/></a>',
-    sortBy: 'most-recent',
-    limit: '4',
-  });
-  feed.run();
-
+  var userFeed = new Instafeed({
+        get: 'user',
+        userId: '364180803',
+        accessToken: '364180803.ca3e263.23758b33a507477fb19d84964e8de459',
+        clientId: 'ca3e263f7b174e6b8b3aad6a054e6435',
+        template: '<a href="{{link}}" target="_blank"><img src="{{image}}" class="img-insta"/></a>',
+        sortBy: 'most-recent',
+        limit: '9',
+    });
+    userFeed.run()
 
   //top menu fixed
   var $topo = $('.main');
@@ -53,4 +53,5 @@ jQuery(document).ready(function($) {
   $("#share-gp").on('click', function(){
     ga('send', 'event', 'Share', 'click', 'Compartilhou no Google Plus');
   });
+
 });
