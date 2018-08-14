@@ -7,7 +7,7 @@ tags:
   - inspiracao
 seo: libertar, emoções, expressar, confiar, imaginação, escrita, alma, singularidades, essência, comunicar, transmitir
 author: Brenda Andrade
-thumb: "https://www.altosinsights.com/assets/uploads/2018-02-12-escrita-nossa-de-cada-dia.jpg"
+thumb: "https://altosinsights.com/assets/uploads/2018-02-12-escrita-nossa-de-cada-dia.jpg"
 post_id: p001
 ---
 Gosto de reservar um tempo para eu poder me **libertar**. Deixo as palavras saírem. Costumo pegar um caderno, um notebook, celular, enfim, qualquer arma que eu tenha mais próxima de mim e me preparo para usá-la.
