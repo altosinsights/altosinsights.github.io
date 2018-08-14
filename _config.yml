@@ -2,7 +2,7 @@
 email: altosinsights@gmail.com
 description: O Altos Insights surgiu para que eu possa compartilhar minhas experiências e reflexões que venho adquirindo ao longo da minha trajetória.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://altosinsights.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://altosinsights.com" # the base hostname & protocol for your site, e.g. https://example.com
 thumb: "/assets/img/thumb.png"
 keywords: altosinsights, insights, brenda andrade, brenda, mindset, lifestyle, arte, minimalist, criatividade,
 tag_page_layout: tag_page
