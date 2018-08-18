@@ -58,8 +58,32 @@ layout: default
       </ul>
     </div>
 
+    <div id="disqus_thread"></div>
 
+    <script type="text/javascript">
+    var disqus_loaded = false;
+    function load_disqus()
+    {
+        var disqus_config = function () {
+            this.page.url = '{{ site.url }}{{page.url}}';
+            this.page.identifier = '{{page.url}}';
+        };
+        var d = document, s = d.createElement('script');
+        s.src = '//altosinsights.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        disqus_loaded = true;
+    };
+    window.onscroll = function(e) {
+        if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 500)) {
+            if (disqus_loaded==false) {
+                load_disqus();
+            }
+        }
+    };
+</script>
 
+    <!--
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -70,5 +94,6 @@ layout: default
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <div class="fb-comments" data-href="{{ page.url | absolute_url }}" data-width="100%" data-numposts="20"></div>
+   -->
   </div>
 </div>
