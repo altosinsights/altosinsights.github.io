@@ -96,4 +96,10 @@ layout: default
     <div class="fb-comments" data-href="{{ page.url | absolute_url }}" data-width="100%" data-numposts="20"></div>
    -->
   </div>
+
+  <ul class="pager">
+    {% if page.previous %}<li class="prev"><a href="{{ page.previous.url }}">&laquo; Post Anterior</a></li>{% endif %}
+    {% if page.next %}<li class="next"><a href="{{ page.next.url }}">Próximo Post &raquo;</a></li>{% endif %}
+  </ul>
+
 </div>

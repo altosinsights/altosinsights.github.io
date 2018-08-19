@@ -22,10 +22,36 @@ layout: default
       <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="details">{{ post.date | date: date_format }} - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
-      <img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb">
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb"></a>
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       <a href="{{ post.url | relative_url }}" class="more">continuar lendo →</a>
     </article>
     {% endfor %}
     {% endif %}
+
+    {% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Página Anterior</a>
+  {% else %}
+    <span>&laquo; Página Anterior</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima Página &raquo;</a>
+  {% else %}
+    <span>Próxima Página &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
   </section>

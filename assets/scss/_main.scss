@@ -52,6 +52,39 @@
   }
 }
 
+.pager{
+  display: flex;
+  width: 80%;
+  margin: 40px auto;
+  font-family: "Shadows Into Light Two",cursive;
+  font-weight: bold;
+  color: #7f96a5;
+  font-size: 14px;
+  li{
+    list-style: none;
+  }
+  .prev{
+    margin-right: auto;
+  }
+  .next{
+    margin-left: auto;
+  }
+}
+
+.pagination{
+  display: block;
+  width: 100%;
+  margin: 40px auto;
+  font-family: "Shadows Into Light Two",cursive;
+  font-weight: bold;
+  color: #7f96a5;
+  font-size: 14px;
+  text-align: center;
+  a{
+    margin: 5px;
+  }
+}
+
 .sidebar{
   display: block;
   max-width: 337px;
