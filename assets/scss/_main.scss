@@ -32,6 +32,18 @@
   }
 }
 
+.open{
+  img{
+    width: 70%;
+    display: block;
+    margin: 60px auto;
+    padding: 15px 15px 40px;
+    background: #f3f3f3;
+    transform: rotate(-1deg);
+    box-shadow: 1px 9px 16px #00000038;
+  }
+}
+
 .post-open{
   height: 100%;
   width: 100%;
