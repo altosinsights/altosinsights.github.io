@@ -131,6 +131,9 @@ strong, b{
   .rodape p{
     font-size: 10px;
   }
+  .notmobile{
+    display: none
+  }
 }
 
 @media screen and (max-width: 480px){
