@@ -37,7 +37,7 @@ Alguns amam, alguns odeiam e alguns nem se lembram direito. Mas a verdade é que
 <iframe src="https://giphy.com/embed/PBSskZdeNUF0c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 A ideia principal desta série gira em torno de um assassino, Jigsaw, um doente terminal de tumor, que rapta pessoas e coloca-as em armadilhas para testá-las e ver se elas merecem a sua vida abusiva.
 
-As vítimas, quase sempre escolhidas por terem uma vida errada (mentindo, roubando, causando mau ao próximo...), estão geralmente ligadas entre elas de alguma forma.
+As vítimas, quase sempre escolhidas por terem uma vida errada (mentindo, roubando, causando mal ao próximo...), estão geralmente ligadas entre elas de alguma forma.
 
 ---
 
