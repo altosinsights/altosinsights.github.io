@@ -4,7 +4,7 @@ title:  "Top 5 filmes de terror para assistir no Halloween"
 description: "Separei uma playlist com top 5 filmes de terror bem “aterrorizantes” pra você reunir todo mundo de casa e amigos para fazerem uma sessão de medos!"
 date:   2018-10-31 16:00:00 -0300
 tags:
-  - filmes
+  - dicas
 seo: Sexta-feira 13, A hora do pesadelo, Jogos mortais, Terror em Silent hill, Os outros, Halloween, filmes de terror, terror, medo, panico, Silent hill, filmes halloween, netflix, Freddy Krueger, Jigsaw
 author: Brenda Andrade
 thumb: "https://altosinsights.com/assets/uploads/2018-10-31-top-5-filmes-de-terror-para-assistir-no-halloween.jpg"
