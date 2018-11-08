@@ -8,6 +8,7 @@ tags:
 seo: comportamentos, insensível, menosprezar, satisfação, desejos, sinceridade, coragem, empurrão, verdades, coração, vida, aceitar, mudar, individualidade, plena, amigos
 author: Brenda Andrade
 thumb: "https://altosinsights.com/assets/uploads/2018-11-07-agir-em-favor-de-si-mesmo-nem-sempre-e-egoismo.jpg"
+creditos: Unsplash/@desnorteeu
 post_id: p004
 ---
 Já ouvi diversas vezes sobre o tal **egoísmo**.

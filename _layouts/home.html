@@ -22,7 +22,7 @@ layout: default
       <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="details">{{ post.date | date: date_format }} - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
-      <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb"></a>
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb"><span class="creditos">Foto: {{ post.creditos }}</span></a>
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       <a href="{{ post.url | relative_url }}" class="more">continuar lendo →</a>
     </article>

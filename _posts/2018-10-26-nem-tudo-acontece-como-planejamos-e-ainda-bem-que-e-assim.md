@@ -8,6 +8,7 @@ tags:
 seo: extrair coisas boas, calmaria, imprevistos, reinvente, obstáculos, tudo dá certo, empenhar, viver o presente, planejamento, não se martirizar
 author: Brenda Andrade
 thumb: "https://altosinsights.com/assets/uploads/2018-10-26-nem-tudo-acontece-como-planejamos-e-ainda-bem-que-e-assim.jpg"
+creditos: Unsplash/@esteejanssens
 post_id: p002
 ---
 Nesses últimos meses tive tempo suficiente pra esclarecer algumas pendências, me reorganizar e entender que não posso simplesmente começar algo e deixar pela metade. Perdoem-me, depois de uma bofetada na cara, voltei.

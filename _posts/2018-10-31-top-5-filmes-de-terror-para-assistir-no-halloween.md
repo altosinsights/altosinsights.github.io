@@ -8,6 +8,7 @@ tags:
 seo: Sexta-feira 13, A hora do pesadelo, Jogos mortais, Terror em Silent hill, Os outros, Halloween, filmes de terror, terror, medo, panico, Silent hill, filmes halloween, netflix, Freddy Krueger, Jigsaw
 author: Brenda Andrade
 thumb: "https://altosinsights.com/assets/uploads/2018-10-31-top-5-filmes-de-terror-para-assistir-no-halloween.jpg"
+creditos: Unsplash/@creativeexchange
 post_id: p003
 ---
 A data preferida dos fãs de terror está finalmente aqui! 31 de Outubro, o famoso Halloween e se você ainda não sabe o que fazer pra comemorar esse dia das bruxas,  separei uma playlist com top 5 filmes de terror bem “aterrorizantes” pra você reunir todo mundo de casa e amigos para fazerem uma sessão de medos!
