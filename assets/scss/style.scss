@@ -140,6 +140,12 @@ strong, b{
   .notmobile{
     display: none !important;
   }
+  .polaroids{
+    display: block;
+    .polaroid:last-child{
+      top: 0;
+    }
+  }
 }
 
 @media screen and (max-width: 480px){

@@ -2,9 +2,12 @@
   <nav class="menu-mobile">
     <span></span>
     <ul class="menu-itens">
-      <li class="about about-mobile"><img src="{{ "/assets/img/brendaandrade2.jpg" | relative_url }}" alt="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." title="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." class="img-responsive"></li>
+      <a href="/sobre-mim" onclick="ga('send', 'event', 'link', 'click', 'Click no Sobre Foto Brendinha');"><li class="about about-mobile"><img src="{{ "/assets/img/about-me-mobile.jpg" | relative_url }}" alt="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." title="Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas." class="img-responsive"></li></a>
       <li class="about-text">
-        <p>Sou Brenda Andrade, estudante de administração e apaixonada pela escrita. Busco sempre a beleza nas pequenas coisas.</p>
+        <p>Sou Brenda Andrade, acadêmica de administração e apaixonada pela escrita, busco sempre a beleza nas pequenas simplicidades da vida.</p>
+        <a class="social-media" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'Click no instagram');" href="https://www.instagram.com/brenda.andrad/" itemprop="url"><i class="fa fa-instagram fa-lg" style="margin-bottom: 20px;font-size: 2em;"></i></a>
+        <a class="social-media" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'Click no twitter');" href="https://twitter.com/brendaandrad/" itemprop="url"><i class="fa fa-twitter fa-lg" style="margin-bottom: 20px;font-size: 2em;"></i></a>
+        <a class="social-media" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'Click no facebook');" href="https://www.facebook.com/altosinsights/" itemprop="url"><i class="fa fa-facebook fa-lg" style="margin-bottom: 20px;font-size: 2em;"></i></a>
       </li>
       {% for link in site.links %}
         <a href="{{ site.url }}{{ link.url }}"><li>{{ link.title }}</li></a>
@@ -12,7 +15,7 @@
     </ul>
   </nav>
   <a href="/" class="logo">
-    <img src="{{ "/assets/img/logo-altosinsights.png" | relative_url }}" alt="Blog Altos Insights escrito por Brenda Andrade" class="img-responsive">
+    <img src="{{ "/assets/img/logo-altosinsights.png" | relative_url }}" title="Blog Altos Insights escrito por Brenda Andrade" alt="Blog Altos Insights escrito por Brenda Andrade" class="img-responsive">
   </a>
 </header>
 

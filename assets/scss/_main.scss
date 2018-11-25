@@ -69,18 +69,35 @@
   }
 }
 
-.open{
-  .polaroid{
-    width: 70%;
-    display: block;
-    margin: 60px auto;
-    padding: 15px 15px 40px;
-    background: #f3f3f3;
-    transform: rotate(-1deg);
-    box-shadow: 1px 9px 16px #00000038;
+.polaroids{
+  display: flex;
+  .polaroid:last-child{
+    transform: rotate(2deg);
+    position: relative;
+    top: -20px;
   }
 }
 
+.polaroid{
+  width: 40%;
+  display: block;
+  margin: 60px auto;
+  padding: 15px;
+  background: #f3f3f3;
+  transform: rotate(-1deg);
+  box-shadow: 1px 9px 16px #00000038;
+  text-align: center;
+  img{
+    width: 100%;
+  }
+  span{
+    margin-top: 5px;
+    display: block;
+    font-family: $textos;
+    color: $primaria;
+    font-size: 12px;
+  }
+}
 .post-open{
   height: 100%;
   width: 100%;
@@ -93,9 +110,9 @@
   display: flex;
   width: 80%;
   margin: 40px auto;
-  font-family: "Shadows Into Light Two",cursive;
+  font-family: $especial;
   font-weight: bold;
-  color: #7f96a5;
+  color: $secundaria;
   font-size: 14px;
   li{
     list-style: none;
@@ -112,9 +129,9 @@
   display: block;
   width: 100%;
   margin: 40px auto;
-  font-family: "Shadows Into Light Two",cursive;
+  font-family: $especial;
   font-weight: bold;
-  color: #7f96a5;
+  color: $secundaria;
   font-size: 14px;
   text-align: center;
   a{
@@ -335,7 +352,7 @@ iframe#dsq-app1{
   background: #fff;
   padding: 20px;
   border-style: dashed;
-  border-color: #7f96a5;
+  border-color: $secundaria;
   overflow: hidden;
   input[type="text"], input[type="email"], textarea{
     width: 100%;
@@ -345,7 +362,7 @@ iframe#dsq-app1{
     border-bottom: 2px solid $secundaria;
     outline: none;
     border-radius: 0;
-    font-family: "Open Sans",sans-serif;
+    font-family: $textos;
     color: #3e4041;
     font-size: 14px;
     line-height: 1.625;

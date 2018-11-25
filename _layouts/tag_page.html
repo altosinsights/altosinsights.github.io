@@ -5,9 +5,28 @@ layout: default-tag
   <section class="post-list">
     {% for post in page.posts %}
     <article class="post">
-      <h2><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <h1><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h1>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="details">{{ post.date | date: date_format }} - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
+      <span class="details">
+      <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}Janeiro
+          {% when '2' %}Fevereiro
+          {% when '3' %}Março
+          {% when '4' %}Abril
+          {% when '5' %}Maio
+          {% when '6' %}Junho
+          {% when '7' %}Julho
+          {% when '8' %}Agosto
+          {% when '9' %}Setembro
+          {% when '10' %}Outubro
+          {% when '11' %}Novembro
+          {% when '12' %}Dezembro
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
+      </time> - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
       <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb"><span class="creditos">Foto: {{ post.creditos }}</span></a>
       <p>
         {{ post.content | strip_html | truncatewords: 50 }}

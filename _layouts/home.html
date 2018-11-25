@@ -19,9 +19,28 @@ layout: default
 
     {% for post in site.posts %}
     <article class="post">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+      <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="details">{{ post.date | date: date_format }} - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
+      <span class="details">
+      <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}Janeiro
+          {% when '2' %}Fevereiro
+          {% when '3' %}Março
+          {% when '4' %}Abril
+          {% when '5' %}Maio
+          {% when '6' %}Junho
+          {% when '7' %}Julho
+          {% when '8' %}Agosto
+          {% when '9' %}Setembro
+          {% when '10' %}Outubro
+          {% when '11' %}Novembro
+          {% when '12' %}Dezembro
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
+      </time> - <a href="/{{ site.tag_page_dir }}/{{ post.tags }}">{{ post.tags }}</a> - por <a href="/sobre-mim" class="author">{{ post.author }}</a></span>
       <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb }}" alt="{{ post.title }}" title="{{ post.title }}" class="thumb"><span class="creditos">Foto: {{ post.creditos }}</span></a>
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       <a href="{{ post.url | relative_url }}" class="more">continuar lendo →</a>
@@ -29,29 +48,29 @@ layout: default
     {% endfor %}
     {% endif %}
 
-    {% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Página Anterior</a>
-  {% else %}
-    <span>&laquo; Página Anterior</span>
-  {% endif %}
+      {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Página Anterior</a>
+      {% else %}
+        <span>&laquo; Página Anterior</span>
+      {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima Página &raquo;</a>
+      {% else %}
+        <span>Próxima Página &raquo;</span>
+      {% endif %}
+    </div>
     {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima Página &raquo;</a>
-  {% else %}
-    <span>Próxima Página &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
   </section>

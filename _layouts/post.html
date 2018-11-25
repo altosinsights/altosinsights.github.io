@@ -7,7 +7,25 @@ layout: default
 
       <h1>{{ page.title | escape }}</h1>
       <span class="details">
-        <time datetime='{{post.date | date: "%Y-%m-%d"}}' itemprop="datePublished">{{ page.date | date_to_string }}</time> - {% for tag in page.tags %}<a href="/{{ site.tag_page_dir }}/{{ tag }}">{{ tag }}</a>{% endfor %} - por {% if page.author %} <a href="/sobre-mim" class="author">{{ page.author }}</a> {% endif %}
+        <time datetime='{{page.date | date: "%Y-%m-%d"}}' itemprop="datePublished">
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Janeiro
+            {% when '2' %}Fevereiro
+            {% when '3' %}Março
+            {% when '4' %}Abril
+            {% when '5' %}Maio
+            {% when '6' %}Junho
+            {% when '7' %}Julho
+            {% when '8' %}Agosto
+            {% when '9' %}Setembro
+            {% when '10' %}Outubro
+            {% when '11' %}Novembro
+            {% when '12' %}Dezembro
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+        </time> - {% for tag in page.tags %}<a href="/{{ site.tag_page_dir }}/{{ tag }}">{{ tag }}</a>{% endfor %} - por {% if page.author %} <a href="/sobre-mim" class="author">{{ page.author }}</a> {% endif %}
       </span>
 
       <img src="{{ page.thumb }}" alt="{{ page.title }}" title="{{ page.title }}" class="thumb"><span class="creditos">Foto: {{ page.creditos }}</span>
