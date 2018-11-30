@@ -15,14 +15,19 @@ jQuery(document).ready(function($) {
   //top menu fixed
   var $topo = $('.main');
   var $menu = $('.menu');
+  var $optin = $('#fixoptin');
   var $filterSpacer = $('<div />', {
           "class": "filter-drop-spacer",
           "height": $menu.outerHeight()
   });
+  var $filterSpacer2 = $('<div />', {
+          "class": "filter-drop-spacer",
+          "height": $optin.outerHeight()
+  });
 
   $(window).scroll(function ()
   {
-          if (!$menu.hasClass('video-scroll') && $(window).scrollTop() > $topo.offset().top)
+          if ($(window).scrollTop() > $topo.offset().top)
           {
                   $menu.before($filterSpacer);
                   $menu.addClass('fix');
@@ -31,6 +36,21 @@ jQuery(document).ready(function($) {
           {
                   $menu.removeClass('fix');
                   $filterSpacer.remove();
+          }
+
+  });
+
+  $(window).scroll(function ()
+  {
+          if ($(window).scrollTop() > $optin.offset().top)
+          {
+                  $optin.before($filterSpacer2);
+                  $optin.addClass('fixoptin');
+          }
+          else if ($optin.hasClass('fixoptin')  && $(window).scrollTop() < $filterSpacer2.offset().top)
+          {
+                  $optin.removeClass('fixoptin');
+                  $filterSpacer2.remove();
           }
 
   });
