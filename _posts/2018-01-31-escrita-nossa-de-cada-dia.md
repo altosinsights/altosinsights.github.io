@@ -34,14 +34,3 @@ Acredite, várias vezes já me disseram que fiz algo igual a fulano. Gosto de n�
 Enfim, àquelas dificuldades que normalmente passamos, mas que pra mim, acontece sempre.
 
 Se isso acontece com você também, que tal compartilhar comigo e outros leitores? Tenho certeza que dessa forma podemos abusar mais de uma das nossas várias formas incríveis de nos expressarmos. A escrita. ❤️
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle notmobile"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7675865993239387"
-     data-ad-slot="2454480284"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

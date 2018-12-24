@@ -63,14 +63,3 @@ A filha de Grace diz estar mantendo contato com aparições inexplicáveis. Inic
 Espero que tenham gostado das indicações e comentem quais filmes de terror mais te assustam pra esse *Halloween*!
 
 Doces ou Travessuras? 🎃👻
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle notmobile"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7675865993239387"
-     data-ad-slot="2454480284"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
