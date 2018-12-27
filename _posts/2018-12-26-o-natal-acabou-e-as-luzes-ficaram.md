@@ -19,9 +19,9 @@ Posso dizer com toda certeza que minha mãe é a peça chave para reunir a famí
 
 Foi tão contagiante que fez com que todos entrassem no ritmo. Mesmo com obstáculos diários e dificuldades do dia-a-dia, todos aproveitamos esse momento simbólico. Basta deixar que o amor venha de dentro de você e contagie o seu humor para que você crie uma grande festa interna e externalize - no meu caso foi mais fácil porque minha mãe por si só já nos contagia.
 
-As luzes ainda estão acesas lá em casa, nas ruas e nas praças. Esse é o momento de a gente manter esse calor e aconchego da família (nem sei quando a árvore lá de casa será desmontada. rs), mas eu gosto porque ainda fica aquele gostinho de Natal.
+As luzes ainda estão acesas aqui em casa, nas ruas e nas praças. Esse é o momento de a gente manter esse calor e aconchego da família (nem sei quando a árvore daqui será desmontada. rs), mas eu gosto porque ainda fica aquele gostinho de Natal.
 
-E mesmo que você não tenha passado com seus familiares, é o momento de aproveitar a sua presença e o seu momento, agradecer por cada processo que passou esse ano e entender que sobreviveu a um ou vários furacões e hoje está aqui.
+E mesmo que você não tenha passado com seus familiares ou amigos, é o momento de aproveitar a sua presença e o seu momento, agradecer por cada processo que passou esse ano e entender que sobreviveu a um ou vários furacões e hoje está aqui.
 
 Que a minha luz e a de cada um não se apague em nenhum momento, seja no Natal ou fora dele.
 
