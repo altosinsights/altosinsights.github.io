@@ -91,6 +91,15 @@ strong, b{
   margin-bottom: 20px;
 }
 
+#publi{
+  div{
+    width: 100% !important;
+    iframe{
+      width: 100% !important;
+    }
+  }
+}
+
 @media screen and (max-width: 1280px){
   .content{
     padding-left: 5%;
