@@ -77,6 +77,9 @@ Essas últimas semanas foram bem corridas, estudar o inglês, semana de provas n
 
 [No final tudo dá certo!](https://altosinsights.com/nem-tudo-acontece-como-planejamos-e-ainda-bem-que-e-assim/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click na indicacao do post 02');"} ❤️
 
-*P.S*:  O Bruno Fraga irá abrir logo mais, após esse teste beta, uma [turma para 25 alunos participarem](https://www.facebook.com/OnThePhone/posts/539837996443855){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no post OnThePhone');"} e poderem ter essa mesma experiência com o *On The Phone*, recomendo fortemente vocês darem uma olhadinha.
+*P.S*:  O Bruno Fraga abriu, após esse teste beta, uma [turma para 25 alunos participarem](https://www.facebook.com/OnThePhone/posts/539837996443855){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no post OnThePhone');"} e poderem ter essa mesma experiência com o *On The Phone*, recomendo fortemente vocês darem uma olhadinha e participarem da lista de espera.
 
-*P.P.S*: Se quiserem saber um pouco mais sobre a metodologia de ensino do *On The Phone*, basta [fazer uma visitinha aqui](https://www.facebook.com/OnThePhone/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no facebook OnThePhone');"}.
+*P.P.S*: Se quiserem saber um pouco mais sobre a metodologia de ensino do *On The Phone*, basta [fazer uma visitinha aqui](https://onthephone.com.br/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no facebook OnThePhone');"}.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
