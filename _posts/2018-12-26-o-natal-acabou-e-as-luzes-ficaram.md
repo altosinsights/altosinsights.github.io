@@ -26,3 +26,6 @@ E mesmo que você não tenha passado com seus familiares ou amigos, é o momento
 Que a minha luz e a de cada um não se apague em nenhum momento, seja no Natal ou fora dele.
 
 Gratidão por cada ano, por cada momento e por cada Natal que passo com meus familiares e amigos. ❤️
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
