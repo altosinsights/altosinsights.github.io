@@ -24,3 +24,13 @@ Ouvi muitas **pessoas** dizendo que esse ano foi difícil, e olha, não posso de
 Vivemos **momentos**, sendo cada um deles um processo e acredite, Deus não te dá uma cruz que não possa carregar. Cada **dificuldade** que vamos combatendo, é um **degrau** a mais que nos deixará mais próximo de nossa **plenitude**.
 
 Pense nisso. ❤️
+
+ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

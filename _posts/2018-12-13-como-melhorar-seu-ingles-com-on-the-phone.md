@@ -80,3 +80,13 @@ Essas últimas semanas foram bem corridas, estudar o inglês, semana de provas n
 *P.S*:  O Bruno Fraga abriu, após esse teste beta, uma [turma para 25 alunos participarem](https://www.facebook.com/OnThePhone/posts/539837996443855){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no post OnThePhone');"} e poderem ter essa mesma experiência com o *On The Phone*, recomendo fortemente vocês darem uma olhadinha e participarem da lista de espera.
 
 *P.P.S*: Se quiserem saber um pouco mais sobre a metodologia de ensino do *On The Phone*, basta [fazer uma visitinha aqui](https://onthephone.com.br/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no facebook OnThePhone');"}.
+
+ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

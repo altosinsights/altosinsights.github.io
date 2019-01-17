@@ -36,3 +36,13 @@ E é nesse ponto que eu queria chegar. O **planejamento** faz parte da vida de t
 Todos precisamos de planejamento, mas acima de tudo, precisamos entender que devemos separar um momento pra gente e **não se martirizar** porque as coisas não estão seguindo nos trilhos.
 
 Por que a gente ainda não aceita que tem dia que é isso? Pronto. Mais fácil e não é o fim.
+
+ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
