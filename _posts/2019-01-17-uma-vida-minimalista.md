@@ -4,13 +4,22 @@ title:  "Uma vida minimalista"
 description: "Tornou-se moda demonizar a aquisição de bens materiais como um desperdício de dinheiro e um exercício supérfluo. A maioria de nós sabemos que comprar mais não nos manterá felizes a longo prazo..."
 date:   2019-01-17 15:00:00 -0300
 tags:
-  - dicas
+  - inspiracao
 seo: vida minimalista, bens materiais, minimalista, minimalismo, superfluo, compra, superficial, roupa nova, celular, coisas úteis
 author: Brenda Andrade
 thumb: "https://altosinsights.com/assets/uploads/2019-01-17-uma-vida-minimalista.jpg"
 creditos: Unsplash/@dylu
 post_id: p008
 ---
+
+Uma parte do minimalismo incompreendida.
+
+Com tantos livros populares, blogs e vídeos mostrando minimalistas vivendo em casas brancas com apenas quatro blusas, três pratos e uma caneta, não é de se surpreender o porquê a maioria das pessoas tem um pensamento "errado" quanto a esse termo.
+
+Uma vida minimalista é definida pelos  próprios  termos de cada pessoa.
+
+Para uns, possuir menos de 100 itens é a sua definição. Não estou dizendo que é errado, mas não se encaixa em todas as aspirações minimalistas. Penso que ao invés de o minimalismo ser definido por quanto você tem ou não tem, acaba sendo sobre estar consciente das coisas que implantamos e mantemos em nossas vidas.
+
 Muitas vezes as coisas têm um uso e tudo bem.
 
 ##  Um fato sobre bens
@@ -30,6 +39,7 @@ Enfim, coisas como estas são necessárias como parte de uma vida bem vivida.  P
 E é aqui que entra o minimalismo como prática, nos ajudando a sermos mais  disciplinados  com nossos desejos e conscientes da vida em que queremos viver.
 
 Acho que consegui expor um pouco da minha visão quanto ao minimalismo. Caso tenha um pensamento diferente, deixa aqui nos comentários, estou sempre disposta a conhecer e debater diferentes posições. ❤️
+
 
 
 <div class="adsmobile">
