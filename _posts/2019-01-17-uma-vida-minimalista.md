@@ -2,7 +2,7 @@
 layout: post
 title:  "Uma vida minimalista"
 description: "Tornou-se moda demonizar a aquisição de bens materiais como um desperdício de dinheiro e um exercício supérfluo. A maioria de nós sabemos que comprar mais não nos manterá felizes a longo prazo..."
-date:   2019-01-17 15:00:00 -0300
+date:   2019-01-16 15:00:00 -0300
 tags:
   - inspiracao
 seo: vida minimalista, bens materiais, minimalista, minimalismo, superfluo, compra, superficial, roupa nova, celular, coisas úteis
@@ -28,7 +28,7 @@ Tornou-se moda demonizar a aquisição de bens materiais como um desperdício de
 
 O sentimento de satisfação que se origina na compra de certas coisas, posteriormente, acaba sendo superficial e é por isso que quando se tem pressa não dura muito. Mas algumas aquisições podem realmente ser significativas para nós.
 
-><cite>"Faça o que funciona para você."</cite>
+><cite>Faça o que funciona para você.</cite>
 
 Uma roupa nova nos dá um incentivo de confiança muito necessária no trabalho, um conjunto de pincéis revela nosso lado criativo, um curso de idiomas é destinado para aprender algo novo, um celular nos conecta com família e amigos e até mesmo um álbum de fotos cheio de lembranças nos faz sorrir e nos lembra o quanto aprendemos ao longo dos anos...
 
