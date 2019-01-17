@@ -33,6 +33,7 @@ Egoísmo é sim ruim, mas nem sempre.
 
 Acho que cheguei a conclusão que estamos falando mais de **individualidade** do que egoísmo. Precisamos ser francos e confessar que sua individualidade pode estar no momento em que você se sente **plena** ao lado de vários **amigos** e/ou até mesmo sozinha. De qualquer forma, estaremos pensando um pouco mais na gente sem ferir o coleguinha. ❤️
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"

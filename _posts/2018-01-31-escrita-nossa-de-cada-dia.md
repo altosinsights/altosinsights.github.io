@@ -35,7 +35,7 @@ Enfim, àquelas dificuldades que normalmente passamos, mas que pra mim, acontece
 
 Se isso acontece com você também, que tal compartilhar comigo e outros leitores? Tenho certeza que dessa forma podemos abusar mais de uma das nossas várias formas incríveis de nos expressarmos. A escrita. ❤️
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
