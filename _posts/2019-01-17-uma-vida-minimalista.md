@@ -19,7 +19,7 @@ Tornou-se moda demonizar a aquisição de bens materiais como um desperdício de
 
 O sentimento de satisfação que se origina na compra de certas coisas, posteriormente, acaba sendo superficial e é por isso que quando se tem pressa não dura muito. Mas algumas aquisições podem realmente ser significativas para nós.
 
-> Faça o que funciona para você.
+><cite>"Faça o que funciona para você."</cite>
 
 Uma roupa nova nos dá um incentivo de confiança muito necessária no trabalho, um conjunto de pincéis revela nosso lado criativo, um curso de idiomas é destinado para aprender algo novo, um celular nos conecta com família e amigos e até mesmo um álbum de fotos cheio de lembranças nos faz sorrir e nos lembra o quanto aprendemos ao longo dos anos...
 
