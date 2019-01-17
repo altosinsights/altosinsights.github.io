@@ -81,6 +81,7 @@ Essas últimas semanas foram bem corridas, estudar o inglês, semana de provas n
 
 *P.P.S*: Se quiserem saber um pouco mais sobre a metodologia de ensino do *On The Phone*, basta [fazer uma visitinha aqui](https://onthephone.com.br/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no facebook OnThePhone');"}.
 
+<div class="adsmobile">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -91,3 +92,4 @@ Essas últimas semanas foram bem corridas, estudar o inglês, semana de provas n
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>

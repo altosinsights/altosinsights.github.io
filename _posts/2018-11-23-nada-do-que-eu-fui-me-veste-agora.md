@@ -25,6 +25,7 @@ Vivemos **momentos**, sendo cada um deles um processo e acredite, Deus não te d
 
 Pense nisso. ❤️
 
+<div class="adsmobile">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -35,3 +36,4 @@ Pense nisso. ❤️
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>

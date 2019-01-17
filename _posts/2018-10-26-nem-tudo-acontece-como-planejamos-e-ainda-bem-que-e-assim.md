@@ -37,6 +37,7 @@ Todos precisamos de planejamento, mas acima de tudo, precisamos entender que dev
 
 Por que a gente ainda não aceita que tem dia que é isso? Pronto. Mais fácil e não é o fim.
 
+<div class="adsmobile">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -47,3 +48,4 @@ Por que a gente ainda não aceita que tem dia que é isso? Pronto. Mais fácil e
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>

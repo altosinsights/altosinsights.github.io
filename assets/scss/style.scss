@@ -166,6 +166,12 @@ strong, b{
   }
 }
 
+@media screen and (max-width: 680px){
+  .adsmobile{
+    display: none;
+  }
+}
+
 @media screen and (max-width: 480px){
   .social-post{
     margin: 0 auto;
