@@ -30,8 +30,6 @@ Gratidão por cada ano, por cada momento e por cada Natal que passo com meus fam
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8078000237589807"
      data-ad-slot="9245457524"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
