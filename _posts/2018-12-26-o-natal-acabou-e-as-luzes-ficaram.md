@@ -27,7 +27,7 @@ Que a minha luz e a de cada um não se apague em nenhum momento, seja no Natal o
 
 Gratidão por cada ano, por cada momento e por cada Natal que passo com meus familiares e amigos. ❤️
 
-ins class="adsbygoogle"
+<ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"

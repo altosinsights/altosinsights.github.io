@@ -64,7 +64,7 @@ Espero que tenham gostado das indicações e comentem quais filmes de terror mai
 
 Doces ou Travessuras? 🎃👻
 
-ins class="adsbygoogle"
+<ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"

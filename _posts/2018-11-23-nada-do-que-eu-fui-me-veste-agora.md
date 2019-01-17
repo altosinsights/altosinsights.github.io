@@ -25,7 +25,7 @@ Vivemos **momentos**, sendo cada um deles um processo e acredite, Deus não te d
 
 Pense nisso. ❤️
 
-ins class="adsbygoogle"
+<ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"

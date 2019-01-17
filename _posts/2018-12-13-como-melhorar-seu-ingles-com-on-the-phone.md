@@ -81,7 +81,7 @@ Essas últimas semanas foram bem corridas, estudar o inglês, semana de provas n
 
 *P.P.S*: Se quiserem saber um pouco mais sobre a metodologia de ensino do *On The Phone*, basta [fazer uma visitinha aqui](https://onthephone.com.br/){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no facebook OnThePhone');"}.
 
-ins class="adsbygoogle"
+<ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"

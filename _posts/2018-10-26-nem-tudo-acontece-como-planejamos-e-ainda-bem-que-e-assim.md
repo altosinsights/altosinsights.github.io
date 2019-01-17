@@ -37,7 +37,7 @@ Todos precisamos de planejamento, mas acima de tudo, precisamos entender que dev
 
 Por que a gente ainda não aceita que tem dia que é isso? Pronto. Mais fácil e não é o fim.
 
-ins class="adsbygoogle"
+<ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
