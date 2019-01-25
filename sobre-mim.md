@@ -24,18 +24,6 @@ Começando pelo **Altos Insights**, o blog surgiu (em 2018) para que eu possa co
 
 Eu sempre fui uma criança bem arteira, se não uma menina difícil. Gostava muito de subir em árvores e quase sempre eu saía machucada, mas isso não me impedia de correr e brincar novamente (tenho algumas cicatrizes de lembranças).
 
-<div class="adsmobile">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8078000237589807"
-     data-ad-slot="9245457524"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Além dos meus lazeres “perigosos”, eu adorava **escrever** (e **pintar**). Até que um certo dia a minha irmã mais velha ganhou um computador (febre na época), achei fabuloso, diversas vezes encontrava-me escrevendo nele. Sim, eu adorava **criar histórias**, até pensava em ser escritora (não sei até hoje como recuperar os arquivos no disco de memória, depois que quebrou nunca mais vi meus contos).
 
 Durante o ensino médio eu participei de um projeto chamado **NAAHS**, foi onde eu me reencontrei com a **arte**. Desenhar já fazia parte de mim, neste projeto eu pude conhecer várias outras técnicas de desenhos e pinturas. Tive a oportunidade de participar de **exposições** e essa foi uma das experiências mais gratificantes que eu já tive.
