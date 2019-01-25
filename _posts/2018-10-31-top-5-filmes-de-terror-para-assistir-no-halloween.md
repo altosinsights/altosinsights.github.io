@@ -33,6 +33,20 @@ Cabe a uma das vítimas, Nancy, conseguir derrotar aquela sádica figura que ate
 
 ---
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+---
+
 ## Série Jogos mortais
 Alguns amam, alguns odeiam e alguns nem se lembram direito. Mas a verdade é que esta é uma das maiores franquias em termos de bilheteria para um filme de terror.
 <iframe src="https://giphy.com/embed/PBSskZdeNUF0c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

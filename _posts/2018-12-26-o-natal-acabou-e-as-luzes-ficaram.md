@@ -17,6 +17,18 @@ Depois de uma ceia deliciosa preparada com amor pelos familiares que a gente ama
 
 Posso dizer com toda certeza que minha mãe é a peça chave para reunir a família. A árvore de natal já estava montada desde Novembro!! (conhece alguém assim? rs). Amo o jeito como ela começa a falar do Natal quando se inicia o mês de Dezembro, ela planejando o que será feito na ceia, de como será feito o discurso de agradecimento pra família (ela ama essa parte) e das brincadeiras durante a noite. Às vezes não rola presente, esse ano difícil que nos diga, mas cada um participou do seu jeito, levando sua luz de dentro para esse momento.
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Foi tão contagiante que fez com que todos entrassem no ritmo. Mesmo com obstáculos diários e dificuldades do dia-a-dia, todos aproveitamos esse momento simbólico. Basta deixar que o amor venha de dentro de você e contagie o seu humor para que você crie uma grande festa interna e externalize - no meu caso foi mais fácil porque minha mãe por si só já nos contagia.
 
 As luzes ainda estão acesas aqui em casa, nas ruas e nas praças. Esse é o momento de a gente manter esse calor e aconchego da família (nem sei quando a árvore daqui será desmontada. rs), mas eu gosto porque ainda fica aquele gostinho de Natal.

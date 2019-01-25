@@ -26,6 +26,18 @@ Muitas vezes as coisas têm um uso e tudo bem.
 
 Tornou-se moda demonizar a aquisição de bens materiais como um desperdício de dinheiro e um exercício supérfluo. A maioria de nós sabemos que comprar mais não nos manterá felizes a longo prazo, mas isso não nos impede de comprar.
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 O sentimento de satisfação que se origina na compra de certas coisas, posteriormente, acaba sendo superficial e é por isso que quando se tem pressa não dura muito. Mas algumas aquisições podem realmente ser significativas para nós.
 
 ><cite>Faça o que funciona para você.</cite>

@@ -17,6 +17,18 @@ Gostaria de ter começado dizendo que as coisas velhas já passaram, mas seria u
 
 Esse ano, que ainda não terminou, está sendo um ano de **conquistas**, **superações** e muitos **aprendizados**. Lembro-me que no último ano, eu não esperava muito de 2018 e nem imaginaria mudar tanto. Tinha vários **planejamentos** e na medida que esse ano foi chegando e passando, pude vivenciar muitos processos que contribuíram para meu **crescimento** e muito dos planos que eu tinha não foram pra frente por causa dessas mudanças.
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Mas está tudo bem, nada do que fui me veste agora. A gente precisa passar por vários momentos e pessoas para **aprendermos** a lidar com a **vida**.
 
 Ouvi muitas **pessoas** dizendo que esse ano foi difícil, e olha, não posso deixar de concordar. Ouvi também muitos dizerem que esse ano foi bem ruim (se não, o pior) e nessa parte eu tive que discordar. Se voltar logo no início do texto, verá que falta pouco mais de um mês para acabar o ano e você pode começar a fazer ele **valer a pena**. Eu entendo que nem tudo são **flores**, mas na medida em que você vai **realizando** cada processo, por mais pequeno que ele seja, verá que é **capaz** e isso te dá uma sensação de **controle**. Bom, funciona comigo.

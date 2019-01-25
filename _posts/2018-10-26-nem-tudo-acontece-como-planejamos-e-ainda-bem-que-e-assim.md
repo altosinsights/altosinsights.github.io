@@ -27,6 +27,18 @@ Os **imprevistos** que acontecem em cima de nossos planos, faz com que a gente s
 
 Mas isso também não quer dizer que não devemos nos **empenhar** pra que algo dê certo. Não mesmo!
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 De certa forma, no fundo sabemos quando vale, ou não, a pena se esforçar em alguma tarefa ou simplesmente por alguém.  
 
 Também não entendo o porquê a gente ainda acha que tem que estar em pleno vapor todo dia, sabe? Passamos um bom tempo planejando os passos seguintes que acabamos nos esquecendo de **viver o presente**.

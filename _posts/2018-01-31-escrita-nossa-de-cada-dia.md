@@ -25,6 +25,18 @@ Por vezes eu olho para os meus dedos pairando por sobre o teclado e fico cavando
 
 Quando se trata em fazer o que gostamos, tudo se torna mais fácil. Entende?
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Os livros, as escritas, as músicas, os quadros, enfim, estão aí não para mostrar que você é inteligente, mas sim para mostrar a sua **alma**.
 
 Acredite, várias vezes já me disseram que fiz algo igual a fulano. Gosto de não pensar dessa forma, há **singularidades**, até mesmo na escrita. O fato de existir coisas parecidas não demonstra que são iguais, cada um tem sua **essência** (e dela, eu prefiro deixar pra falar em uma outra ocasião).

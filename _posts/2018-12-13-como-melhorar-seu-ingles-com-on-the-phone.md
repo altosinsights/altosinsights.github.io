@@ -57,6 +57,18 @@ Nessa conversa com o Bruno em que ele me explicou sobre o *On The Phone*, ele me
 
 Na primeira semana de aula, eu recebi o conteúdo. Estudei. E quando deu a hora de me ligarem (são mega pontuais) uma professora super atenciosa falou comigo. Juro, eu estava com muita vergonha porque meu inglês é bem fraco e eu não tinha o costume de me comunicar, mas ela foi super compreensível e na medida em que a conversa foi fluindo, eu me senti mais a vontade.
 
+<div class="adsmobile">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8078000237589807"
+     data-ad-slot="9245457524"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 Eu senti na pele o que a vergonha pode fazer com a gente. Frases e perguntas simples ditas inicialmente eu não entendia, mas não porque eu não sabia e sim porque eu estava tão focada no que ela ia pensar de mim (sim, eu pensava isso. rs) que me embolava no momento em que ela estava falando comigo.
 
 <iframe src="https://giphy.com/embed/glmRyiSI3v5E4" width="480" height="216" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
