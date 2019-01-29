@@ -20,8 +20,6 @@ Enfim... Tentei explorar um outro lado de mim que eu não conhecia, portanto aca
 
 Espero que gostem ❤️
 
----
-
 <div class="adsmobile">
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -74,7 +72,6 @@ Espero que gostem ❤️
 Peixes... Signo com tantas características, cada um vê de um modo e do seu entendimento. Aqui se faz um poema com o qual me identifico, tentei me decifrar por inteira, mas no fundo não consigo.
 
 Deixa nos comentários sua opinião, ela é de grande importância para mim.
-
 
 <div class="adsmobile">
 <ins class="adsbygoogle"
