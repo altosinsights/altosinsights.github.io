@@ -64,7 +64,7 @@ De qualquer forma, dei essa volta toda pra simplesmente abrir sua mente, estou f
 
 ## Curiosidade
 
-O [Pequeno Príncipe](https://www.amazon.com.br/Pequeno-Pr%C3%ADncipe-Hist%C3%B3ria-Filme/dp/8522032114/ref=as_sl_pc_qf_sp_asin_til?tag=altosinsights-20&linkCode=w00&linkId=1bcb9b0f914abe5fc55b084843835c48&creativeASIN=8522032114){:target="_blank"}, de Antoine de Saint-Exupéry, foi publicado em 1943 e é uma das obras mais amadas por adultos e crianças de todo o mundo, além de ser um dos livros mais traduzidos atualmente, ficando atrás apenas da Bíblia e do Alcorão.
+O [Pequeno Príncipe](https://amzn.to/2WYUe4s){:target="_blank"}, de Antoine de Saint-Exupéry, foi publicado em 1943 e é uma das obras mais amadas por adultos e crianças de todo o mundo, além de ser um dos livros mais traduzidos atualmente, ficando atrás apenas da Bíblia e do Alcorão.
 
 
 <div class="adsmobile">
