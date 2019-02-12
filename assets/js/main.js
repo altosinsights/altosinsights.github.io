@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
   //top menu fixed
   var $topo = $('.main');
   var $menu = $('.menu');
-  var $optin = $('#fixoptin');
+  var $optin = $('#fixads');
   var $filterSpacer = $('<div />', {
           "class": "filter-drop-spacer",
           "height": $menu.outerHeight()
@@ -45,11 +45,11 @@ jQuery(document).ready(function($) {
           if ($(window).scrollTop() > $optin.offset().top)
           {
                   $optin.before($filterSpacer2);
-                  $optin.addClass('fixoptin');
+                  $optin.addClass('fixads');
           }
-          else if ($optin.hasClass('fixoptin')  && $(window).scrollTop() < $filterSpacer2.offset().top)
+          else if ($optin.hasClass('fixads')  && $(window).scrollTop() < $filterSpacer2.offset().top)
           {
-                  $optin.removeClass('fixoptin');
+                  $optin.removeClass('fixads');
                   $filterSpacer2.remove();
           }
 
