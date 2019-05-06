@@ -41,7 +41,7 @@ Sendo uma empresa gaúcha criada por um primo e dois irmãos: Eduardo Hommerding
 
 ---
 
-##Produtos
+## Produtos
 A Dobra tem como carro chefe o produto das carteiras de bolso, mas também lançaram as camisas com bolsos "de papel" e os tênis "de papel".
 
 Os produtos da Dobra são feitos de uma fibra semelhante a papel, em textura e espessura, chamada Tyvek, que é super resistente à água, não rasga e é super leve. Trabalhando com estoque zero, as carteiras são vendidas somente pela internet, feitas à mão e sob encomenda, o que evita total desperdício.
@@ -50,7 +50,7 @@ Além de tudo, as carteiras são embaladas em um papelão que vira um cofrinho d
 
 ---
 
-##Vale a pena? Minha experiência
+## Vale a pena? Minha experiência
 
 Após ter pesquisado bastante, decidi comprar o produto e ao final da compra tinham diversas formas de entrega para escolher e optei pela JadLog (transportadora), pois tinha o frete mais barato e chegou em uma semana (considerando o preço, foi rápida a entrega).  Certamente eu tive uma das melhores experiências quando recebi. A carteira realmente é muito fininha (mesmo com meus documentos dentro).
 
