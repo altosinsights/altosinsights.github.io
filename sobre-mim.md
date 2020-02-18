@@ -16,11 +16,13 @@ tags: escrever, pintar, criar histórias, NAAHS, arte, exposições, meditação
 
 Sou **Brenda Andrade**, acadêmica de administração e apaixonada pela escrita, busco sempre a beleza nas pequenas simplicidades da vida.
 
-Esse é espaço onde eu vou falar um pouquinho sobre tudo, meus insights sobre a vida, erros, acertos e aprendizados diários, vai perceber também que falo bastante sobre auto ajuda porque diariamente aprendo algo novo e quero poder transmitir essas mistura de sentimentos.
+Esse é espaço onde eu vou falar um pouquinho sobre tudo, meus insights sobre a vida, erros, acertos e aprendizados diários, vai perceber também que falo bastante sobre auto ajuda porque diariamente aprendo algo novo e quero poder transmitir essa mistura de sentimentos.
 
 Sou uma pessoa grata por cada momento vivido e que deseja **compartilhar** cada **experiência** aqui, com vocês. ❤️
 
 Também consegue me encontrar no Instagram [@brenda.andrad](https://www.instagram.com/brenda.andrad){:target="_blank"}{:onclick="ga('send', 'event', 'link', 'click', 'Click no instagram do Sobre Mim');"}, lá você pode me mandar mensagem, conhecer minha rotina e me contar sobre a vida.
+
+Pode pegar o café e sinta- se em casa, só não repara a bagunça.
 
 <div class="polaroids" style="display:none">
   <div class="polaroid">
